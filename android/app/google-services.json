@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591794021020",
+    "project_id": "mathapp-cs3",
+    "storage_bucket": "mathapp-cs3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591794021020:android:55caabd16ab709a1eec359",
+        "android_client_info": {
+          "package_name": "com.doancoso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591794021020-4iv5ca5b0b65hfmrtnrggq5mfobabftk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doancoso",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "591794021020-efjk9hjfccq6m942e5mf4osn46los7to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_FCfe7A40IglLUhZnqGQQS49RT14haw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591794021020-efjk9hjfccq6m942e5mf4osn46los7to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
